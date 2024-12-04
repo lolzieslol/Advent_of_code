@@ -1,5 +1,5 @@
 
-filpath = '1/real_input.txt'
+filpath = 'day 1/real_input.txt'
 fil = open(filpath,encoding='utf-8')
 content = fil.read()
 list1 = []
