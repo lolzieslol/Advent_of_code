@@ -32,7 +32,6 @@ for report in reports:
         
         i+=1
     
-    print(decreasing ,increasing,big_jump)
     if decreasing  == increasing or big_jump == True:
         report_safety.append('Unsafe')
     else:
